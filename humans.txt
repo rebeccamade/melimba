@@ -1,0 +1,16 @@
+/* humanstxt.org */
+
+
+/* TEAM */
+
+	Site Design: Melissa Wood 
+	Location: Deep in the heart of Texas
+	
+  
+  Front-End Develpoment: Rebecca Snyder
+  Site: http://www.rebeccamade.com
+  Twitter: @rebeccamade
+
+/* SITE */
+  	Standards: HTML5, CSS3, PHP
+
